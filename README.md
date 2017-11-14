@@ -1,2 +1,2 @@
-http://tudo-sobre-serie.github.com/
+http://tudo-sobre-serie.github.io/
 site
