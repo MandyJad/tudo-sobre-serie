@@ -1,0 +1,35 @@
+.nomesite{
+	
+	color:white; 
+	font-weight: bolder; 
+	font-size:20px;
+	
+}
+
+.tamanhologo{
+
+	width:64px;
+	height:64px;
+}
+
+.cormenu{
+	background-color:#f8f9fa;
+}
+
+.fonte{
+	font:90px cinemast;
+	color:white;
+	
+}
+
+@font-face{
+	font-family: cinemast;
+	src:url('font/cinemast.ttf');
+}
+
+
+body{
+	background-image: url(http://3.bp.blogspot.com/-GiGfXPwn0js/Ti7dBFxwmXI/AAAAAAAABeQ/fXG8RmCfiG8/s1600/pc_bg.jpg);
+	background-color: #000;
+	
+}
