@@ -1,2 +1,2 @@
-https://tudo-sobre-serie
+http://tudo-sobre-serie
 site
