@@ -12,6 +12,15 @@
 	height:64px;
 }
 
+.tamanhofoto{
+	
+	width:64px;
+	height:64px; 
+	
+	
+}
+
+
 .cormenu{
 	background-color:#f8f9fa;
 }
@@ -20,6 +29,7 @@
 	font:90px cinemast;
 	color:white;
 	
+	
 }
 
 @font-face{
@@ -27,6 +37,32 @@
 	src:url('font/cinemast.ttf');
 }
 
+.espaco{
+	
+width: 20rem;
+    border-left-width: 100px;
+    border-top-width: 100px;
+}
+
+.corcopy{
+	
+    color: #ffffff;
+	text-align:
+
+}
+
+.ladolado{
+  display: inline;
+ width: 60%;
+ float: left;
+}
+
+.ladoalado{
+	
+ display: inline;
+ width: 30%;
+ float: right;
+}	
 
 body{
 	background-image: url(http://3.bp.blogspot.com/-GiGfXPwn0js/Ti7dBFxwmXI/AAAAAAAABeQ/fXG8RmCfiG8/s1600/pc_bg.jpg);
