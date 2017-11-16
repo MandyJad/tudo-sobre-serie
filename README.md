@@ -1,1 +1,1 @@
-mandyjad.github.oi/tudo-sobre-serie site
+ Site: https://mandyjad.github.io/tudo-sobre-serie/ 
