@@ -51,17 +51,9 @@ width: 20rem;
 
 }
 
-.ladolado{
-  display: inline;
- width: 60%;
- float: left;
-}
-
 .ladoalado{
-	
- display: inline;
- width: 30%;
- float: right;
+    position: absolute;
+    left: 350px;	
 }	
 
 body{
