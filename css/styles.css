@@ -1,0 +1,86 @@
+.nomesite{
+	
+	color:white; 
+	font-weight: bolder; 
+	font-size:20px;
+	
+}
+
+.alinhamentoIcon{
+
+	position:absolute;
+	left: 850px;
+	top: 17px;
+
+}
+
+.cordoparanauela{
+	
+	color:white;
+	
+}
+
+.form-group{
+
+	width: 700px;
+	height: 60px;
+	margin: 15px auto;
+	color:white;
+	
+}
+
+.tamanhologo{
+
+	width:64px;
+	height:64px;
+}
+
+.tamanhofoto{
+	
+	width:64px;
+	height:64px; 
+	
+	
+}
+
+
+.cormenu{
+	background-color:#f8f9fa;
+}
+
+.fonte{
+	font:90px cinemast;
+	color:white;
+	
+	
+}
+
+@font-face{
+	font-family: cinemast;
+	src:url('font/cinemast.ttf');
+}
+
+.espaco{
+	
+width: 20rem;
+    border-left-width: 100px;
+    border-top-width: 100px;
+}
+
+.corcopy{
+	
+    color: #ffffff;
+	text-align:
+
+}
+
+.ladoalado{
+    position: absolute;
+    left: 350px;	
+}	
+
+body{
+	background-image: url(http://3.bp.blogspot.com/-GiGfXPwn0js/Ti7dBFxwmXI/AAAAAAAABeQ/fXG8RmCfiG8/s1600/pc_bg.jpg);
+	background-color: #000;
+	
+}
